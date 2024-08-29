@@ -23,6 +23,6 @@ Each program can be run independently by selecting the corresponding program num
 
 ## Author
 
-- Name: Mohit B D
+- Name: Mohith D B
 - USN: 4MH21CS056
 - Faculty Name: Victor Ikechukwu Agughasi
